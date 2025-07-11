@@ -1,4 +1,4 @@
-# Development Diary — `harshdeepportfolio`
+# Development Diary — `irtika`
 
 This document outlines the development process of a single-page portfolio website created using only HTML and CSS. The project was built by a Computer Science undergraduate student with prior theoretical knowledge of web development and some basic practical experience.
 
